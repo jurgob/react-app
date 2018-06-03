@@ -4,6 +4,7 @@ import logo from './logo.png';
 export default () => (
   <Fragment>
     <img src={logo} alt="logo" />
+    <h1>Terzo occhio: Ten Sing</h1>
     <h1>
       <a href="https://medium.com/@evheniybystrov/react-app-from-scratch-d694300d1631">
         Read more...
